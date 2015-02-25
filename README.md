@@ -1,5 +1,7 @@
 # Awesome Computer Science Books
 List of awesome computer science books
+  - [The Art of Computer Programming](http://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=dp_ob_title_bk)
+  - [Concrete Mathematics: A Foundation for Computer Science](http://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=pd_sim_b_1?ie=UTF8&refRID=0HP318GZCA6BK9W8Y2PS)
   - [How to design programs] (http://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186/ref=sr_1_1?s=books&ie=UTF8&qid=1424803565&sr=1-1&keywords=how+to+design+programs)
   - [Code complete 2] (http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?s=books&ie=UTF8&qid=1424803631&sr=1-1&keywords=code+complete)
   - [Structure and Interpretation of Computer Programs](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=sr_1_1?s=books&ie=UTF8&qid=1424803687&sr=1-1&keywords=structure+and+interpretation+of+computer+programs)
