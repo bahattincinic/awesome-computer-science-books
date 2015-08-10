@@ -10,3 +10,5 @@ List of awesome computer science books
   - [The Pragmatic Programmer: From Journeyman to Master ](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1424803894&sr=8-1&keywords=The+Pragmatic+Programmer)
   - [Introduction to Algorithms](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1424943742&sr=8-1&keywords=introduction+to+algorithms)
   - [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+  - [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/dp/0321125215/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=107R8GWI99MFE&coliid=I9B46LRIFSTB9)
+  - [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
